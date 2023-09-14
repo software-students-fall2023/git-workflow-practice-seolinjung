@@ -1,5 +1,4 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
 
 AI is obviously a hot topic in software development everywhere. Excitement about how ChatGPT can carry out previously challenging tasks so seamlessly, or concerns about AI taking over the jobs of many vulnerable people. But I remember reading from somewhere about how what we call AI now isn't really... "artificial intelligence."  
 
