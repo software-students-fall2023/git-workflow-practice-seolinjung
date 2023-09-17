@@ -11,3 +11,6 @@ So what does it mean that AI is creating racist art or blurting out commonly sai
 ## Comments
 
 **Avaneesh Devkota**: As aspiring computer scientists and software engineers, we carry a significant responsibility to ensure that the technology we create and deploy serves the best interests of society. It is deeply concerning to witness a technology that holds the promise of propelling humanity to new frontiers plagued by the very biases that have held us back for centuries. What is shocking is that, despite the consensus among nearly 80% of businesses and decision-makers that bias in data will become an even larger concern, only a small fraction have taken concrete actions to confront this pressing issue.
+
+-Gabriel Park-
+If there is a silver lining, it is that these challenges promote more diversity in the workplace! With different perspectives and backgrounds, people can see some inherent biases that others might not have. This empowers teamwork, cooperation, and raises up people of all backgrounds. 
